@@ -21,7 +21,15 @@ Bu proje, SwiftUI kullanılarak geliştirilen basit bir macOS hesap makinesi uyg
 
 
 
-https://github.com/user-attachments/assets/77f281b6-1d0e-455b-87d5-5eb96acbd0d1
+
+
+
+
+https://github.com/user-attachments/assets/425c208a-8945-4dd4-b968-8277606202d2
+
+
+
+
 
 
 
